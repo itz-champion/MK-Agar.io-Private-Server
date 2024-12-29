@@ -1,0 +1,14 @@
+[
+  {
+    "ip": "*",
+    "password": "Admin",
+    "role": "ADMIN",
+    "name": "Administrator"
+  },
+  {
+    "ip": "*",
+    "password": "Mod",
+    "role": "MODER",
+    "name": "Moderator"
+  }
+]
